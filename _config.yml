@@ -6,8 +6,8 @@ title: 'Sixeight Studio'
 
 logo:
   mobile: "images/logo/sixeight-studio.svg"
-  mobile_height: "75px"
-  mobile_width: "264px"
+  mobile_height: "200px"
+  mobile_width: "600px"
   desktop: "images/logo/sixeight-studio.svg"
   desktop_height: "75px"
   desktop_width: "264px"
