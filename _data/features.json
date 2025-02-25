@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Compositional.",
+    "description": "Experimental. Only.",
+    "image": {
+      "url": "images/features/Hybrid_Musical_Key_Signature.svg",
+      "width": 100,
+      "height": 100
+    }
+  },
+  {
+    "title": "As fast as a 128th note.",
+    "description": "Or a semihemidemisemiquaver.",
+    "image": {
+      "url": "images/features/1-128_note_quarter_demisemiquaver_(music).svg",
+      "width": 10,
+      "height": 40
+    }
+  }
+]
